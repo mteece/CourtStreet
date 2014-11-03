@@ -1,0 +1,48 @@
+/*
+var d = new Date('Sat Nov 01 2014 17:00:00 GMT-0500 (EST)'); console.log(d);
+Sat Nov 01 2014 18:00:00 GMT-0400 (EDT) VM261:2
+undefined
+var d = new Date('Sun Nov 02 2014 17:00:00 GMT-0500 (EST)'); console.log(d);
+Sun Nov 02 2014 17:00:00 GMT-0500 (EST) 
+*/
+
+{
+	id: 1,
+	hopper: {
+	 	fill: { timeStamp: 'Sat Nov 01 2014 17:00:00 GMT-0500 (EST)' },
+		empty: { timeStamp: 'Sat Nov 02 2014 19:30:00 GMT-0500 (EST)' }
+	},
+	brand: 'Green Supreme',
+	type: 'Pellet',
+	wood: 'Hardwood',
+	stoveAdjustments: [
+		{ 
+			timeStamp: 'Sat Nov 01 2014 17:00:00 GMT-0500 (EST)',
+			temperature: 68.0,
+			feedAdjusterSetting: 3,
+			roomTemperatureSetting: 'Low'
+		},
+		{ 
+			timeStamp: 'Sat Nov 01 2014 23:00:00 GMT-0500 (EST)',
+			temperature: 65.0,
+			feedAdjusterSetting: 3,
+			roomTemperatureSetting: 'Low'	
+		},
+		{ 
+			timeStamp: 'Sat Nov 02 2014 18:00:00 GMT-0500 (EST)',
+			temperature: 72.0,
+			feedAdjusterSetting: 3,
+			roomTemperatureSetting: 'Low'	
+		}
+	] 
+	temperatureScale: 'Fahrenheit',
+	weight: 40.0
+	weightScale: 'Imperial',
+	ambientTemperatures: [ 
+		{
+			timeStamp: 'Sat Nov 01 2014 00:00:00 GMT-0500 (EST)',
+			dayTimeTemperature: 42,
+		    nightTimeTemperature: 37
+		}
+	]
+}
