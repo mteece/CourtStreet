@@ -51,7 +51,7 @@
 			  "timeStamp": "Sun Nov 02 2014 19:52:00 GMT-0500 (EST)" 
 			},
 			"empty": { 
-			  "timeStamp": null 
+			  "timeStamp": "Mon Nov 03 2014 21:52:00 GMT-0500 (EST)" 
 			}
 		},
 		"brand": "Cleanfire",
@@ -87,6 +87,12 @@
 				"temperature": 70.0,
 				"feedAdjusterSetting": 3,
 				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Mon Nov 03 2014 19:52:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
 			}
 		],
 		"temperatureScale": "Fahrenheit",
@@ -97,6 +103,50 @@
 				"timeStamp": "Sun Nov 02 2014 00:00:00 GMT-0500 (EST)",
 				"dayTimeTemperature": 39,
 				"nightTimeTemperature": 28
+			},
+			{
+				"timeStamp": "Mon Nov 03 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 50,
+				"nightTimeTemperature": 33
+			}
+		]
+	},
+	{
+		"id": 3,
+		"hopper": {
+			"fill": { "timeStamp": "Mon Nov 03 2014 22:23:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": null }
+		},
+		"brand": "Green Supreme",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Mon Nov 03 2014 22:23:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Tue Nov 04 2014 07:52:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Mon Nov 03 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 50,
+				"nightTimeTemperature": 33
+			},
+			{
+				"timeStamp": "Tue Nov 04 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 53,
+				"nightTimeTemperature": 43
 			}
 		]
 	}
