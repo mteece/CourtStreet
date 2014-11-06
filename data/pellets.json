@@ -189,6 +189,18 @@
 				"temperature": 65.0,
 				"feedAdjusterSetting": 3,
 				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Wed Nov 05 2014 17:23:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Thu Nov 06 2014 08:15:04 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
 			}
 		],
 		"temperatureScale": "Fahrenheit",
@@ -199,6 +211,11 @@
 				"timeStamp": "Wed Nov 05 2014 00:00:00 GMT-0500 (EST)",
 				"dayTimeTemperature": 60,
 				"nightTimeTemperature": 39
+			},
+			{
+				"timeStamp": "Thu Nov 06 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 49,
+				"nightTimeTemperature": 41
 			}
 		]
 	}
