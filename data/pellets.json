@@ -405,6 +405,36 @@
 				"temperature": 65.0,
 				"feedAdjusterSetting": 3,
 				"roomTemperatureSetting": "Off"
+			},
+			{ 
+				"timeStamp": "Tue Nov 11 2014 17:40:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Tue Nov 11 2014 19:04:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Tue Nov 11 2014 19:14:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "High"
+			},
+			{ 
+				"timeStamp": "Tue Nov 11 2014 19:28:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Wed Nov 12 2014 07:28:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Off"
 			}
 		],
 		"temperatureScale": "Fahrenheit",
@@ -417,9 +447,14 @@
 				"nightTimeTemperature": 34
 			},
 			{
-				"timeStamp": "Mon Nov 10 2014 00:00:00 GMT-0500 (EST)",
+				"timeStamp": "Tue Nov 11 2014 00:00:00 GMT-0500 (EST)",
 				"dayTimeTemperature": 59,
 				"nightTimeTemperature": 45
+			},
+			{
+				"timeStamp": "Wed Nov 12 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 56,
+				"nightTimeTemperature": 31
 			}
 		]
 	}
