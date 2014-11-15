@@ -518,7 +518,7 @@
 		"id": 10,
 		"hopper": {
 			"fill": { "timeStamp": "Fri Nov 14 2014 07:15:00 GMT-0500 (EST)" },
-			"empty": { "timeStamp": null }
+			"empty": { "timeStamp": "Sat Nov 15 2014 04:40:00 GMT-0500 (EST)" }
 		},
 		"brand": "Green Supreme",
 		"type": "Pellet",
@@ -541,6 +541,24 @@
 				"temperature": 65.0,
 				"feedAdjusterSetting": 3,
 				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Fri Nov 14 2014 15:20:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Fri Nov 14 2014 20:24:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Sat Nov 15 2014 04:40:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Off"
 			}
 		],
 		"temperatureScale": "Fahrenheit",
@@ -548,9 +566,42 @@
 		"weightScale": "Imperial",
 		"ambientTemperatures": [
 			{
-				"timeStamp": "Fri Nov 14 2014 07:15:00 GMT-0500 (EST)",
+				"timeStamp": "Fri Nov 14 2014 00:00:00 GMT-0500 (EST)",
 				"dayTimeTemperature": 41,
 				"nightTimeTemperature": 24
+			},
+			{
+				"timeStamp": "Sat Nov 15 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 25
+			}
+		]
+	},
+	{
+		"id": 11,
+		"hopper": {
+			"fill": { "timeStamp": "Sat Nov 15 2014 05:12:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": null }
+		},
+		"brand": "Green Supreme",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Sat Nov 15 2014 05:12:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Sat Nov 15 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 25
 			}
 		]
 	}
