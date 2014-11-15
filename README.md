@@ -1,7 +1,7 @@
 CourtStreet
 ===========
 
-Myriad of data sets from the home.
+Myriad of data sets from the home. Considering http://metricsgraphicsjs.org/ or http://d3js.org/
 
 
 Pellet Stove
@@ -43,6 +43,8 @@ Format Example:
 
 Network
 -------
+
+Bandwidth tests hardwired to modem, http://en.wikipedia.org/wiki/Data_rate_units#Megabit_per_second as well as https://github.com/sivel/speedtest-cli
 
 	{ "data": [
 		{
