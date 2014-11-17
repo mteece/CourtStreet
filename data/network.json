@@ -1,1 +1,39 @@
-/* bandwidth tests */
+{ "data": [
+		{
+			"id": 1,
+			"ssId": "",
+			"ssIdBroadcast": false,
+			"equipment": {
+				"name": "Linksys N300 Wi-Fi Wireles Router",
+				"qos": true
+			},
+			"bandwidth": [
+			  {
+			  "duration": {
+					"start": { "timeStamp": "Sun Nov 16 2014 16:41:49 GMT-0500 (EST)" },
+					"end": { "timeStamp": "Sun Nov 16 2014 16:42:29 GMT-0500 (EST)" }
+				},
+				"downloadSpeed": 13310000,
+				"uploadSpeed": 1550000,
+				"unit": "bytes",
+				"rate": "seconds",
+				"server": { 
+					"name":"Hosted by Comcast (Boston, MA)",
+					"distance": {
+						"measurement": 98.04,
+						"unit": "kilometers"
+					}
+				},
+				"latency": {
+					"ping": 22.676,
+					"unit": "milliseconds"
+				}
+				}
+			],
+			"internetServiceProvider": { 
+				"name": "Comcast", 
+				"connectionType": "DOCSIS 3" 
+			}
+		}
+	]
+	}
