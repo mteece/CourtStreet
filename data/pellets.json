@@ -1131,7 +1131,7 @@
 		"id": 21,
 		"hopper": {
 			"fill": { "timeStamp": "Wed Nov 26 2014 06:35:00 GMT-0500 (EST)" },
-			"empty": { "timeStamp": null }
+			"empty": { "timeStamp": "Thu Nov 27 2014 03:30:00 GMT-0500 (EST)" }
 		},
 		"brand": "CleanFire",
 		"type": "Pellet",
@@ -1158,6 +1158,11 @@
 				"timeStamp": "Wed Nov 26 2014 00:00:00 GMT-0500 (EST)",
 				"dayTimeTemperature": 43,
 				"nightTimeTemperature": 39
+			},
+			{
+				"timeStamp": "Thu Nov 27 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 34,
+				"nightTimeTemperature": 28
 			}
 		]
 	}
