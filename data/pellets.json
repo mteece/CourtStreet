@@ -1165,6 +1165,57 @@
 				"nightTimeTemperature": 28
 			}
 		]
+	},
+	{
+		"id": 22,
+		"hopper": {
+			"fill": { "timeStamp": "Thu Nov 27 2014 07:45:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Fri Nov 28 2014 08:30:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Thu Nov 27 2014 07:45:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Thu Nov 27 2014 11:00:00 GMT-0500 (EST)",
+				"temperature": 60.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Thu Nov 27 2014 20:18:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Thu Nov 27 2014 23:00:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Thu Nov 27 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 34,
+				"nightTimeTemperature": 28
+			},
+			{
+				"timeStamp": "Fri Nov 28 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 30,
+				"nightTimeTemperature": 19
+			}
+		]
 	}
 ]
 }
