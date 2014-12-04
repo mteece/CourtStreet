@@ -1216,6 +1216,101 @@
 				"nightTimeTemperature": 19
 			}
 		]
+	},
+	{
+		"id": 23,
+		"hopper": {
+			"fill": { "timeStamp": "Fri Nov 28 2014 08:30:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Fri Nov 28 2014 23:45:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Fri Nov 28 2014 08:30:00 GMT-0500 (EST)",
+				"temperature": 73.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Fri Nov 28 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 30,
+				"nightTimeTemperature": 19
+			}
+		]
+	},
+	{
+		"id": 24,
+		"hopper": {
+			"fill": { "timeStamp": "Sat Nov 29 2014 01:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Sat Nov 29 2014 17:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Sat Nov 29 2014 01:00:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Sat Nov 29 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 28,
+				"nightTimeTemperature": 9
+			}
+		]
+	},
+	{
+		"id": 25,
+		"hopper": {
+			"fill": { "timeStamp": "Sat Nov 29 2014 17:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Sun Nov 30 2014 08:31:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Sat Nov 29 2014 17:00:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Sat Nov 29 2014 21:20:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Sat Nov 29 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 28,
+				"nightTimeTemperature": 9
+			},
+			{
+				"timeStamp": "Sun Nov 30 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 43,
+				"nightTimeTemperature": 21
+			}
+		]
 	}
 ]
 }
