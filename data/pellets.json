@@ -1311,6 +1311,247 @@
 				"nightTimeTemperature": 21
 			}
 		]
+	},
+	{
+		"id": 26,
+		"hopper": {
+			"fill": { "timeStamp": "Sun Nov 30 2014 08:31:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Mon Dec 01 2014 08:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Sun Nov 30 2014 08:31:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Sun Nov 30 2014 11:32:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Sun Nov 30 2014 19:00:00 GMT-0500 (EST)",
+				"temperature": 75.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Sun Nov 30 2014 23:13:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Sun Nov 30 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 43,
+				"nightTimeTemperature": 21
+			},
+			{
+				"timeStamp": "Mon Dec 01 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 53,
+				"nightTimeTemperature": 34
+			}
+		]
+	},
+	{
+		"id": 27,
+		"hopper": {
+			"fill": { "timeStamp": "Mon Dec 01 2014 08:30:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Tue Dec 02 2014 16:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Mon Dec 01 2014 08:30:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Mon Dec 01 2014 17:00:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Mon Dec 01 2014 22:00:00 GMT-0500 (EST)",
+				"temperature": 68.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Mon Dec 01 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 53,
+				"nightTimeTemperature": 34
+			},
+			{
+				"timeStamp": "Tue Dec 02 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 32,
+				"nightTimeTemperature": 24
+			}
+		]
+	},
+	{
+		"id": 28,
+		"hopper": {
+			"fill": { "timeStamp": "Tue Dec 02 2014 18:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Wed Dec 03 2014 08:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Tue Dec 02 2014 18:00:00 GMT-0500 (EST)",
+				"temperature": 70.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Wed Dec 03 2014 08:00:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Tue Dec 02 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 32,
+				"nightTimeTemperature": 24
+			},
+			{
+				"timeStamp": "Wed Dec 03 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 27
+			}
+		]
+	},
+	{
+		"id": 29,
+		"hopper": {
+			"fill": { "timeStamp": "Wed Dec 03 2014 08:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Thu Dec 04 2014 07:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Wed Dec 03 2014 08:00:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Wed Dec 03 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 27
+			},
+			{
+				"timeStamp": "Thu Dec 04 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 19
+			}
+		]
+	},
+	{
+		"id": 30,
+		"hopper": {
+			"fill": { "timeStamp": "Thu Dec 04 2014 07:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": "Fri Dec 05 2014 02:00:00 GMT-0500 (EST)" }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Thu Dec 04 2014 07:00:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Thu Dec 04 2014 20:19:00 GMT-0500 (EST)",
+				"temperature": 73.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Thu Dec 04 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 37,
+				"nightTimeTemperature": 19
+			},
+			{
+				"timeStamp": "Fri Dec 05 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 21,
+				"nightTimeTemperature": 16
+			}
+		]
+	},
+	{
+		"id": 31,
+		"hopper": {
+			"fill": { "timeStamp": "Fri Dec 05 2014 02:00:00 GMT-0500 (EST)" },
+			"empty": { "timeStamp": null }
+		},
+		"brand": "CleanFire",
+		"type": "Pellet",
+		"wood": "Hardwood",
+		"stoveAdjustments": [
+			{ 
+				"timeStamp": "Fri Dec 05 2014 02:00:00 GMT-0500 (EST)",
+				"temperature": 72.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			},
+			{ 
+				"timeStamp": "Fri Dec 05 2014 08:00:00 GMT-0500 (EST)",
+				"temperature": 65.0,
+				"feedAdjusterSetting": 3,
+				"roomTemperatureSetting": "Low"
+			}
+		],
+		"temperatureScale": "Fahrenheit",
+		"weight": 40.0,
+		"weightScale": "Imperial",
+		"ambientTemperatures": [
+			{
+				"timeStamp": "Fri Dec 05 2014 00:00:00 GMT-0500 (EST)",
+				"dayTimeTemperature": 21,
+				"nightTimeTemperature": 16
+			}
+		]
 	}
 ]
 }
